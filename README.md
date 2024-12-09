@@ -1,1 +1,0 @@
-# mvp-sprint1-webapp
