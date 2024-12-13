@@ -25,7 +25,7 @@ Este projeto é uma aplicação front-end que permite gerenciar agrupamentos de 
    index.html
    ```
 
-4. Certifique-se de que a API esteja rodando (se aplicável) para funcionalidades dinâmicas como edição e listagem.
+4. Certifique-se de que a API esteja rodando para funcionalidades dinâmicas como edição e listagem.
 
 ## Funcionalidades
 
