@@ -1,6 +1,6 @@
 # Projeto Front-End: Agrupamentos de Madeira
 
-Este projeto é uma aplicação front-end que permite gerenciar agrupamentos de madeira, incluindo funcionalidades como cadastro, listagem e edição. Também inclui a geração de QR Codes com informações personalizadas.
+Este projeto é uma aplicação front-end que permite gerenciar agrupamentos de madeira, incluindo funcionalidades como cadastro, listagem e edição.
 
 ## Tecnologias Utilizadas
 
