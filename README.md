@@ -17,7 +17,7 @@ Este projeto é uma aplicação front-end que permite gerenciar agrupamentos de 
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd seu-repositorio
+   cd mvp-sprint1-webapp
    ```
 
 3. Abra o arquivo `index.html` em um navegador web:
